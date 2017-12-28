@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giovanni Simonini"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   location         : "Italy"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=qKNoouoAAAAJ&hl=it"
-  email            :
+  email            : "simonini@unimore.it"
   uri              :
   bitbucket        :
   codepen          :
