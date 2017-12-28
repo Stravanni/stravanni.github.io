@@ -1,3 +1,8 @@
+---
+title: "Journals"
+collection: publications
+---
+
 ## Journals
 
 - Giovanni Simonini, Sonia Bergamaschi, H. V. Jagadish.
