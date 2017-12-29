@@ -16,7 +16,7 @@ author_profile: true
 - Giovanni Simonini, Sonia Bergamaschi, H. V. Jagadish.
 **BLAST: a Loosely Schema-aware Meta-blocking Approach for Entity Resolution.**
 PVLDB 9(12): 1173-1184 (2016).
-[<span style="color:blue">[pdf]</span>](http://stravanni.github.io/files/blast.pdf)
+[[<span style="color:blue">pdf</span>]](http://stravanni.github.io/files/blast.pdf)
 
 - Sonia Bergamaschi, Davide Ferrari, Francesco Guerra, Giovanni Simonini, Yannis Velegrakis.
 **Providing Insight into Data Source Topics.**
