@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[[<span style="color:blue">CV</span>]](http://stravanni.github.io/files/cv.pdf)
+[[<span style="color:blue">CV PDF</span>]](http://stravanni.github.io/files/cv.pdf)
