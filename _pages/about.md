@@ -13,10 +13,10 @@ I am a postoc at the [department of Engineering "Enzo Ferrari"](http://www.ingmo
 ## Research
 My research focuses on Big Data Integration (in particular Entity Resolution).
 
-#### Award
+### Award
 - My PhD thesis "Loosely Schema-aware Techniques for Big Data Integration" has received the **[Italian CS PhD Thesis Award](http://sites.ieee.org/italy-cs/ieee-computer-society-italy-section-chapter-2016-phd-thesis-award/) from IEEE**.
 
-#### Selected Publications
+### Selected Publications
 - Giovanni Simonini, George Papadakis, Themis Palpanas, Sonia Bergamaschi.
 **Schema-agnostic Progressive Entity Resolution.**
 <span style="color:red">ICDE</span> Paris, France, April 2018.
