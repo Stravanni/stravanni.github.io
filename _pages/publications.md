@@ -13,6 +13,11 @@ author_profile: true
 
 ## Journals
 
+- Fabio Benedetti, Domenico Beneventano, Sonia Bergamaschi, Giovanni Simonini.
+**Computing inter-document similarity with Context Semantic Analysis.**
+<span style="color:red">Inf. Sys.</span> (2018).
+[[<span style="color:blue">pdf</span>]](https://doi.org/10.1016/j.is.2018.02.009}{https://doi.org/10.1016/j.is.2018.02.009)
+
 - Giovanni Simonini, Sonia Bergamaschi, H. V. Jagadish.
 **BLAST: a Loosely Schema-aware Meta-blocking Approach for Entity Resolution.**
 <span style="color:red">PVLDB</span> 9(12): 1173-1184 (2016).
