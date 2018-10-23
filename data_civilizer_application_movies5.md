@@ -79,3 +79,7 @@ The ideal method reaches 1.
 - Using only *critic_rating* for predicting *movie_rating*, lower r^2 are always achieved
 - Using other features but *critic_rating*, r^2 is always very low or negative (i.e., meaningless predictions).
 
+---
+
+Other data sets: [Magellan data repository](https://sites.google.com/site/anhaidgroup/useful-stuff/data)
+
