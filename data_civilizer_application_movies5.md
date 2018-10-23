@@ -64,7 +64,7 @@ The ideal method reaches 1.
 
 ---
 
-**Results**:
+### Results:
 
 ||Pipeline|**r^2**|
 |:--:|:--:|:--:|
