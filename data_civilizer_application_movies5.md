@@ -76,7 +76,18 @@ The ideal method reaches 1.
 
 **notes**:
 
+- Entities that need manual rules:
+	
+	- similar movies:
+	  
+	  - *Rush Hour 2* != *Rush Hour 3*
+	
+	- same title different year and director:
+	  
+	  - *Rage [year: 2014]* != *Rage [year: 2010]* != *Rage [year: 1995]*
+
 - Using only *critic_rating* for predicting *movie_rating*, lower r^2 are always achieved
+
 - Using other features but *critic_rating*, r^2 is always very low or negative (i.e., meaningless predictions).
 
 ---
