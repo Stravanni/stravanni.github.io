@@ -1,0 +1,9 @@
+In their day to day work, data scientists spend a lot of time just to prepare/clean their data so that they can execute queries and extract the right portion of the data that they need for they task at hand
+
+We argue that it would be much cheaper to clean a subset of the dataset if some hints (namely, the query) is given than blindly cleaning the entire dataset and then execute the query
+
+So, We want to provide a tool to supporting the user to do that
+
+Data may be affected by many errors, e.g...
+Non-standardized values are very common, and often is one of the first error that we want to get rid of while cleaning the data, so we start from here
+
