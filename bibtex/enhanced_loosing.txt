@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/ieeehpcs/SimoniniGZB18,
+  author    = {Giovanni Simonini and
+               Luca Gagliardelli and
+               Song Zhu and
+               Sonia Bergamaschi},
+  title     = {Enhancing Loosely Schema-aware Entity Resolution with User Interaction},
+  booktitle = {2018 International Conference on High Performance Computing {\&}
+               Simulation, {HPCS} 2018, Orleans, France, July 16-20, 2018},
+  pages     = {860--864},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/HPCS.2018.00138},
+  doi       = {10.1109/HPCS.2018.00138},
+  timestamp = {Sat, 19 Oct 2019 20:02:30 +0200},
+  biburl    = {https://dblp.org/rec/conf/ieeehpcs/SimoniniGZB18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

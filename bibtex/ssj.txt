@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/ieeehpcs/ZhuGSB18,
+  author    = {Song Zhu and
+               Luca Gagliardelli and
+               Giovanni Simonini and
+               Domenico Beneventano},
+  title     = {How Improve Set Similarity Join Based on Prefix Approach in Distributed
+               Environment},
+  booktitle = {2018 International Conference on High Performance Computing {\&}
+               Simulation, {HPCS} 2018, Orleans, France, July 16-20, 2018},
+  pages     = {844--851},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/HPCS.2018.00136},
+  doi       = {10.1109/HPCS.2018.00136},
+  timestamp = {Sat, 19 Oct 2019 20:02:31 +0200},
+  biburl    = {https://dblp.org/rec/conf/ieeehpcs/ZhuGSB18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+a service of  Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout

@@ -1,0 +1,21 @@
+@article{DBLP:journals/is/PapadakisMGSTGB20,
+  author    = {George Papadakis and
+               Georgios M. Mandilaras and
+               Luca Gagliardelli and
+               Giovanni Simonini and
+               Emmanouil Thanos and
+               George Giannakopoulos and
+               Sonia Bergamaschi and
+               Themis Palpanas and
+               Manolis Koubarakis},
+  title     = {Three-dimensional Entity Resolution with JedAI},
+  journal   = {Inf. Syst.},
+  volume    = {93},
+  pages     = {101565},
+  year      = {2020},
+  url       = {https://doi.org/10.1016/j.is.2020.101565},
+  doi       = {10.1016/j.is.2020.101565},
+  timestamp = {Fri, 31 Jul 2020 17:06:45 +0200},
+  biburl    = {https://dblp.org/rec/journals/is/PapadakisMGSTGB20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

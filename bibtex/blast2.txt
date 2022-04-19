@@ -1,0 +1,18 @@
+@article{DBLP:journals/jdiq/BeneventanoBGS20,
+  author    = {Domenico Beneventano and
+               Sonia Bergamaschi and
+               Luca Gagliardelli and
+               Giovanni Simonini},
+  title     = {\emph{BLAST2}: An Efficient Technique for Loose Schema Information
+               Extraction from Heterogeneous Big Data Sources},
+  journal   = {{ACM} J. Data Inf. Qual.},
+  volume    = {12},
+  number    = {4},
+  pages     = {18:1--18:22},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3394957},
+  doi       = {10.1145/3394957},
+  timestamp = {Sat, 08 Jan 2022 02:23:06 +0100},
+  biburl    = {https://dblp.org/rec/journals/jdiq/BeneventanoBGS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

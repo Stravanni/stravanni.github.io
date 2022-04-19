@@ -1,0 +1,9 @@
+@article{bergamaschi2017bigbench,
+  title={BigBench workload executed by using Apache Flink},
+  author={Bergamaschi, Sonia and Gagliardelli, Luca and Simonini, Giovanni and Zhu, Song},
+  journal={Procedia Manufacturing},
+  volume={11},
+  pages={695--702},
+  year={2017},
+  publisher={Elsevier}
+}

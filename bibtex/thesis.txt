@@ -1,0 +1,6 @@
+@article{DBLP:journals/jdiq/BeneventanoBGS20,
+  author    = {Giovanni Simonini},
+  title     = {},
+  journal   = {PhD Thesis},
+  year      = {2016}
+}

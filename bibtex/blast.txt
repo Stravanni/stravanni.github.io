@@ -1,0 +1,17 @@
+@article{DBLP:journals/pvldb/SimoniniBJ16,
+  author    = {Giovanni Simonini and
+               Sonia Bergamaschi and
+               H. V. Jagadish},
+  title     = {{BLAST:} a Loosely Schema-aware Meta-blocking Approach for Entity
+               Resolution},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {9},
+  number    = {12},
+  pages     = {1173--1184},
+  year      = {2016},
+  url       = {http://www.vldb.org/pvldb/vol9/p1173-simonini.pdf},
+  doi       = {10.14778/2994509.2994533},
+  timestamp = {Sat, 25 Apr 2020 13:59:35 +0200},
+  biburl    = {https://dblp.org/rec/journals/pvldb/SimoniniBJ16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

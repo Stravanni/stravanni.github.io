@@ -1,0 +1,8 @@
+@incollection{bergamaschi2018enhancing,
+  title={Enhancing big data exploration with faceted browsing},
+  author={Bergamaschi, Sonia and Simonini, Giovanni and Zhu, Song},
+  booktitle={Classification,(Big) Data Analysis and Statistical Learning},
+  pages={13--21},
+  year={2018},
+  publisher={Springer}
+}

@@ -1,0 +1,19 @@
+@inproceedings{DBLP:conf/cidr/RezigCSSMTOS20,
+  author    = {El Kindi Rezig and
+               Lei Cao and
+               Giovanni Simonini and
+               Maxime Schoemans and
+               Samuel Madden and
+               Nan Tang and
+               Mourad Ouzzani and
+               Michael Stonebraker},
+  title     = {Dagger: {A} Data (not code) Debugger},
+  booktitle = {10th Conference on Innovative Data Systems Research, {CIDR} 2020,
+               Amsterdam, The Netherlands, January 12-15, 2020, Online Proceedings},
+  publisher = {www.cidrdb.org},
+  year      = {2020},
+  url       = {http://cidrdb.org/cidr2020/papers/p35-rezig-cidr20.pdf},
+  timestamp = {Tue, 23 Mar 2021 15:36:26 +0100},
+  biburl    = {https://dblp.org/rec/conf/cidr/RezigCSSMTOS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

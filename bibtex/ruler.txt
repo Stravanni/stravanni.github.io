@@ -1,0 +1,25 @@
+@inproceedings{DBLP:conf/edbt/GagliardelliSB20,
+  author    = {Luca Gagliardelli and
+               Giovanni Simonini and
+               Sonia Bergamaschi},
+  editor    = {Angela Bonifati and
+               Yongluan Zhou and
+               Marcos Antonio Vaz Salles and
+               Alexander B{\"{o}}hm and
+               Dan Olteanu and
+               George H. L. Fletcher and
+               Arijit Khan and
+               Bin Yang},
+  title     = {RulER: Scaling Up Record-level Matching Rules},
+  booktitle = {Proceedings of the 23rd International Conference on Extending Database
+               Technology, {EDBT} 2020, Copenhagen, Denmark, March 30 - April 02,
+               2020},
+  pages     = {611--614},
+  publisher = {OpenProceedings.org},
+  year      = {2020},
+  url       = {https://doi.org/10.5441/002/edbt.2020.76},
+  doi       = {10.5441/002/edbt.2020.76},
+  timestamp = {Mon, 15 Nov 2021 16:15:59 +0100},
+  biburl    = {https://dblp.org/rec/conf/edbt/GagliardelliSB20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

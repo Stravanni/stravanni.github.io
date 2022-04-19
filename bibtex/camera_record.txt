@@ -1,0 +1,26 @@
+@inproceedings{DBLP:conf/vldb/ZecchiniSB20,
+  author    = {Luca Zecchini and
+               Giovanni Simonini and
+               Sonia Bergamaschi},
+  editor    = {Federico Piai and
+               Donatella Firmani and
+               Valter Crescenzi and
+               Andrea De Angelis and
+               Xin Luna Dong and
+               Maurizio Mazzei and
+               Paolo Merialdo and
+               Divesh Srivastava},
+  title     = {Entity Resolution on Camera Records Without Machine Learning},
+  booktitle = {Proceedings of the 2nd International Workshop on Challenges and Experiences
+               from Data Integration to Knowledge Graphs co-located with 46th International
+               Conference on Very Large Data Bases, DI2KG@VLDB 2020, Tokyo, Japan,
+               August 31, 2020},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2726},
+  publisher = {CEUR-WS.org},
+  year      = {2020},
+  url       = {http://ceur-ws.org/Vol-2726/paper3.pdf},
+  timestamp = {Wed, 18 Nov 2020 15:58:12 +0100},
+  biburl    = {https://dblp.org/rec/conf/vldb/ZecchiniSB20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

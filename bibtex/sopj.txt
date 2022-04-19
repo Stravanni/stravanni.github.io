@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/ieeehpcs/ZhuFSB17,
+  author    = {Song Zhu and
+               Giuseppe Fiameni and
+               Giovanni Simonini and
+               Sonia Bergamaschi},
+  title     = {{SOPJ:} {A} Scalable Online Provenance Join for Data Integration},
+  booktitle = {2017 International Conference on High Performance Computing {\&}
+               Simulation, {HPCS} 2017, Genoa, Italy, July 17-21, 2017},
+  pages     = {79--85},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/HPCS.2017.23},
+  doi       = {10.1109/HPCS.2017.23},
+  timestamp = {Wed, 16 Oct 2019 14:14:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/ieeehpcs/ZhuFSB17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

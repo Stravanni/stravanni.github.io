@@ -1,0 +1,16 @@
+@article{DBLP:journals/is/BenedettiBBS19,
+  author    = {Fabio Benedetti and
+               Domenico Beneventano and
+               Sonia Bergamaschi and
+               Giovanni Simonini},
+  title     = {Computing inter-document similarity with Context Semantic Analysis},
+  journal   = {Inf. Syst.},
+  volume    = {80},
+  pages     = {136--147},
+  year      = {2019},
+  url       = {https://doi.org/10.1016/j.is.2018.02.009},
+  doi       = {10.1016/j.is.2018.02.009},
+  timestamp = {Wed, 29 May 2019 09:32:28 +0200},
+  biburl    = {https://dblp.org/rec/journals/is/BenedettiBBS19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/icde/Simonini0PB18,
+  author    = {Giovanni Simonini and
+               George Papadakis and
+               Themis Palpanas and
+               Sonia Bergamaschi},
+  title     = {Schema-Agnostic Progressive Entity Resolution},
+  booktitle = {34th {IEEE} International Conference on Data Engineering, {ICDE} 2018,
+               Paris, France, April 16-19, 2018},
+  pages     = {53--64},
+  publisher = {{IEEE} Computer Society},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/ICDE.2018.00015},
+  doi       = {10.1109/ICDE.2018.00015},
+  timestamp = {Wed, 16 Oct 2019 14:14:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/icde/Simonini0PB18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

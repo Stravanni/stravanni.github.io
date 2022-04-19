@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/sebd/GagliardelliSB20,
+  author    = {Luca Gagliardelli and
+               Giovanni Simonini and
+               Sonia Bergamaschi},
+  editor    = {Maristella Agosti and
+               Maurizio Atzori and
+               Paolo Ciaccia and
+               Letizia Tanca},
+  title     = {Scaling Up Record-level Matching Rules},
+  booktitle = {Proceedings of the 28th Italian Symposium on Advanced Database Systems,
+               Villasimius, Sud Sardegna, Italy (virtual due to Covid-19 pandemic),
+               June 21-24, 2020},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2646},
+  pages     = {12--23},
+  publisher = {CEUR-WS.org},
+  year      = {2020},
+  url       = {http://ceur-ws.org/Vol-2646/27-paper.pdf},
+  timestamp = {Tue, 18 Aug 2020 18:08:53 +0200},
+  biburl    = {https://dblp.org/rec/conf/sebd/GagliardelliSB20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

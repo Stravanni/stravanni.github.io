@@ -1,0 +1,16 @@
+@article{DBLP:journals/is/SimoniniGBJ19,
+  author    = {Giovanni Simonini and
+               Luca Gagliardelli and
+               Sonia Bergamaschi and
+               H. V. Jagadish},
+  title     = {Scaling entity resolution: {A} loosely schema-aware approach},
+  journal   = {Inf. Syst.},
+  volume    = {83},
+  pages     = {145--165},
+  year      = {2019},
+  url       = {https://doi.org/10.1016/j.is.2019.03.006},
+  doi       = {10.1016/j.is.2019.03.006},
+  timestamp = {Fri, 27 Mar 2020 08:36:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/is/SimoniniGBJ19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

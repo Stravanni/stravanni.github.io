@@ -1,0 +1,18 @@
+@article{DBLP:journals/jodsn/BergamaschiFGSV16,
+  author    = {Sonia Bergamaschi and
+               Davide Ferrari and
+               Francesco Guerra and
+               Giovanni Simonini and
+               Yannis Velegrakis},
+  title     = {Providing Insight into Data Source Topics},
+  journal   = {J. Data Semant.},
+  volume    = {5},
+  number    = {4},
+  pages     = {211--228},
+  year      = {2016},
+  url       = {https://doi.org/10.1007/s13740-016-0063-6},
+  doi       = {10.1007/s13740-016-0063-6},
+  timestamp = {Tue, 08 Sep 2020 13:32:24 +0200},
+  biburl    = {https://dblp.org/rec/journals/jodsn/BergamaschiFGSV16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
