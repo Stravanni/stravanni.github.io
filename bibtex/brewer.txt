@@ -1,0 +1,13 @@
+@article{DBLP:journals/pvldb/SimoniniBJ16,
+  author    = {Giovanni Simonini and
+                Luca Zecchini and
+               Sonia Bergamaschi and
+               Felix Naumann},
+  title     = {Entity Resolution On-demand},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {7},
+  number    = {15},
+  pages     = {1506--1518},
+  year      = {2022},
+  doi       = {10.14778/3523210.3523226}
+}
