@@ -1,0 +1,14 @@
+@article{DBLP:journals/pvldb/SimoniniBJ16,
+  author    = {
+      Luca gagliardelli and
+      George Papadakis and
+      Giovanni Simonini and
+      Sonia Bergamaschi and
+      Themis Palpanas
+  },
+  title     = {
+      Generalized Supervised Meta-blocking
+  },
+  journal   = {Proc. {VLDB} Endow.},
+  year      = {2022}
+}
