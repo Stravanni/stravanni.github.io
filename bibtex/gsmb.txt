@@ -6,9 +6,9 @@
       Sonia Bergamaschi and
       Themis Palpanas
   },
-  title     = {
-      Generalized Supervised Meta-blocking
-  },
+  title     = {{Generalized Supervised Meta-blocking}},
   journal   = {Proc. {VLDB} Endow.},
+  volume    = {9},
+  pages     = {1902--1910},
   year      = {2022}
 }
